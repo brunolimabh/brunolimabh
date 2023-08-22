@@ -13,12 +13,13 @@
   <img align="center" alt="ARDUINO" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"><br><br>
   <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="SQLSERVER" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+<br><br>
+  <!-- <a href="https://instagram.com/" target="_blank"><img src=""></a> -->
+  <a href="https://www.linkedin.com/in/bruno-hadelima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  ##
- 
-<div> 
-  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-hadelima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<br>
+<div align="center">
+  <h1> <b> ⚙️ GitHub Analytics </b> </h1>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunolimabh&show_icons=true&theme=radical"/>
 </div>
