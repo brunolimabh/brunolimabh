@@ -3,7 +3,7 @@
 ### Sobre
 🎓 Ciência da Computação ([SPTech](https://www.sptech.school/))
 
-### Ferramentas 🧰
+### Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,js,nodejs,git,mysql,arduino,linux)](https://skillicons.dev)
 
