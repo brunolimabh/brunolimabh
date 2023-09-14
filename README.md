@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Sobre
-🎓 Ciência da Computação ([SPTech](https://www.sptech.school/))\
+🎓 Ciência da Computação ([SPTech](https://www.sptech.school/))
 
 ### Ferramentas 🧰
 
