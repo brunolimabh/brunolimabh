@@ -19,7 +19,7 @@
 </div>
   
 <br>
-<div align="center">
+<!-- <div align="center">
   <h1> <b> ⚙️ GitHub Analytics </b> </h1>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunolimabh&show_icons=true&theme=radical"/>
-</div>
+</div> -->
