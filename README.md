@@ -19,7 +19,10 @@
 </div>
   
 <br>
-<!-- <div align="center">
-  <h1> <b> ⚙️ GitHub Analytics </b> </h1>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunolimabh&show_icons=true&theme=radical"/>
-</div> -->
+
+### Status
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunolimabh&theme=transparent&layout=compact&show_icons=true&hide_border=true&card_width=250)
+[![GitHub Streak](https://streak-stats.demolab.com?user=brunolimabh&hide_border=true&theme=transparent)](https://git.io/streak-stats)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=brunolimabh&theme=transparent&show_icons=true&hide_border=true&card_width=250)
