@@ -1,13 +1,14 @@
-### Hi there 👋
+### Hello there 👋
 
 ### Sobre
 🎓 Ciência da Computação ([SPTech](https://www.sptech.school/))
+🏢 Estagiário na ([Dock](https://dock.tech/))
 
 ### Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,nodejs,git,mysql,arduino,linux)](https://skillicons.dev)
-
-Entre outras...
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,r,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlserver)](https://skillicons.dev)
 
 ### Status
 
