@@ -6,9 +6,8 @@
 
 ### Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,r,go)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlserver)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,r,go,js)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,mysql,docker)](https://skillicons.dev)
 
 ### Status
 
