@@ -2,7 +2,7 @@
 
 ### Sobre
 🎓 Ciência da Computação ([SPTech](https://www.sptech.school/))
-🏢 Estagiário na ([Dock](https://dock.tech/))
+🏢 Software Engineer ([Dock](https://dock.tech/))
 
 ### Ferramentas
 
